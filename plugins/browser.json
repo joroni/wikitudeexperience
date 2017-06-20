@@ -7,26 +7,23 @@
         "files": {}
     },
     "installed_plugins": {
-        "com.wikitude.phonegap.WikitudePlugin": {
-            "PACKAGE_NAME": "io.ionic.starter"
-        },
         "cordova-plugin-console": {
-            "PACKAGE_NAME": "io.ionic.starter"
+            "PACKAGE_NAME": "com.phonegap.helloworld"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "io.ionic.starter"
+            "PACKAGE_NAME": "com.phonegap.helloworld"
         },
         "cordova-plugin-splashscreen": {
-            "PACKAGE_NAME": "io.ionic.starter"
+            "PACKAGE_NAME": "com.phonegap.helloworld"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "io.ionic.starter"
+            "PACKAGE_NAME": "com.phonegap.helloworld"
         },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "io.ionic.starter"
+            "PACKAGE_NAME": "com.phonegap.helloworld"
         },
         "ionic-plugin-keyboard": {
-            "PACKAGE_NAME": "io.ionic.starter"
+            "PACKAGE_NAME": "com.phonegap.helloworld"
         }
     },
     "dependent_plugins": {}
