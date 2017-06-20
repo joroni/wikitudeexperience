@@ -1,8 +1,9 @@
 {
     "com.wikitude.phonegap.WikitudePlugin": {
         "source": {
-            "type": "registry",
-            "id": "https://github.com/joroni/wikitude-cordova-plugin.git"
+            "type": "git",
+            "url": "https://github.com/joroni/wikitude-cordova-plugin.git",
+            "subdir": "."
         },
         "is_top_level": true,
         "variables": {}
